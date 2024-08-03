@@ -1,4 +1,4 @@
-# About Font_4i?
+# About Font_Ease?
 
 This App uses Azure Face API to help people select the correct font size and identify whether the user requires glasses.
 
